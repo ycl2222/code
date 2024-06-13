@@ -6,7 +6,8 @@
 
 |                               title                                |  journals or confererces | code | year
 |:------------------------------------------------------------------:|:-----------------------:|  :--: |  :--: 
-| Bi-RRNet: Bi-level Recurrent Refinement Network for Camouflaged Object Detection | PR | NONE | NONE
+| CamDiff: Camouflage Image Augmentation via Diffusion Model | arXiv | https://github.com/drlxj/CamDiff |2023
+| CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models | arXiv | https://github.com/Rapisurazurite/CamoDiffusion | 2023
 | Go Closer To See Better: Camouflaged Object Detection via Object Area Amplification and Figure-ground Conversion | TCSVT | https://github.com/Haozhe-Xing/SARNet | 2023
 | MSCAF-Net: A General Framework for Camouflaged Object Detection via Learning Multi-Scale Context-Aware Features | TCSVT | https://github.com/yuliu316316/MSCAF-COD | 2023
 | Towards Deeper Understanding of Camouflaged Object Detection | TCSVT | https://github.com/JingZhang617/COD-Rank-Localize-and-Segment | 2023
@@ -36,15 +37,13 @@
 | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | CVPR | https://github.com/dlut-dimt/SegMaR | 2022
 | Camouflaged Object Detection via Context-aware Cross-level Fusion | TCSVT | https://github.com/Ben57882/C2FNet-TSCVT |2022
 | Boundary-guided network for camouflage object detection | KBS | https://github.com/clelouch/BgNet | 2022
-| Camouflaged Object Detection | CVPR | https://github.com/DengPingFan/SINet | [Google Driver](https://drive.google.com/drive/folders/1uxIuT5havrkL07Skp_oQHoiJ8m2he1Fn?usp=sharing)
-| Context-aware Cross-level Fusion Network for Camouflaged Object Detection | IJCAI | https://github.com/thograce/C2FNet | [Google Driver](https://drive.google.com/file/d/1l_qaEOWNaZVyEu7rk9K_C9Pcuicay0uk/view?usp=sharing)
-| Camouflaged Object Segmentation with Distraction Mining | CVPR | https://github.com/Mhaiyang/CVPR2021_PFNet |[Google Driver](https://drive.google.com/file/d/1Nj-Fdelshj0SfoUVbvsDYQULN-VzgaOo/view?usp=sharing)
-| Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | ICCV | https://github.com/fanyang587/UGTR | [Baidu Driver(2kj3)](https://pan.baidu.com/share/init?surl=gA-Rf9oqQK8vfXamemSxlw&pwd=2kj3)
-| CamoFormer: Masked Separable Attention for Camouflaged Object Detection | arXiv | https://github.com/HVision-NKU/CamoFormer | [Baidu Driver](https://pan.baidu.com/s/1k5CxYzcgizzJ4sRdAxBNlA?pwd=srtf)
-| Boundary-Aware Segmentation Network for Mobile and Web Applications | arXiv | https://github.com/NathanUA/BASNet | [Google Driver](https://drive.google.com/file/d/12jijUPpdOe7k2O1YcLbkJHyXCJb3MRMN/view?usp=sharing)
-| Diffusion Model for Camouflaged Object Detection | arXiv | https://github.com/ZNan-Chen/diffCOD | NONE
-| CamDiff: Camouflage Image Augmentation via Diffusion Model | arXiv | https://github.com/drlxj/CamDiff | [Google Driver](https://drive.google.com/file/d/1g6_8TX4FNxy6lLE9piCQMe0nmr8693dZ/view?usp=share_link)
-| CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models | arXiv | https://github.com/Rapisurazurite/CamoDiffusion | NONE
+| CamoFormer: Masked Separable Attention for Camouflaged Object Detection | arXiv | https://github.com/HVision-NKU/CamoFormer |2022
+| Camouflaged Object Detection | CVPR | https://github.com/DengPingFan/SINet | 2021
+| Context-aware Cross-level Fusion Network for Camouflaged Object Detection | IJCAI | https://github.com/thograce/C2FNet | 2021
+| Camouflaged Object Segmentation with Distraction Mining | CVPR | https://github.com/Mhaiyang/CVPR2021_PFNet |2021
+| Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | ICCV | https://github.com/fanyang587/UGTR |2021
+| Boundary-Aware Segmentation Network for Mobile and Web Applications | arXiv | https://github.com/NathanUA/BASNet | 2021
+
 
 
 
