@@ -29,6 +29,7 @@
 | Camouflaged Object Detection with a Feature Lateral Connection Network | Electronics | https://github.com/Tao-Wang-CV/FLCNet | 2023
 | Unsupervised Camouflaged Object Segmentation as Domain Adaptation | ICCVW | https://github.com/Jun-Pu/UCOS-DA | 2023
 | Concealed Object Detection | TPAMI | https://github.com/DengPingFan/SINet-V2 | 2022
+| Source-free Depth for Object Pop-out | arXiv | https://github.com/Zongwei97/PopNet | 2022
 | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | PR | https://github.com/GewelsJI/ERRNet |2022
 | D2C-Net: A Dual-branch, Dual-guidance and Cross-refine Network for Camouflaged Object Detection | TIE | https://github.com/MS-KangWang/COD-D2Net | 2022
 | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | CVPR | https://github.com/lartpang/ZoomNet |2022
