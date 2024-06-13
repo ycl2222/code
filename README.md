@@ -2,8 +2,6 @@
 
 
 
-## 2023
-
 |                               title                                |  journals or confererces | code | year
 |:------------------------------------------------------------------:|:-----------------------:|  :--: |  :--: 
 | CamDiff: Camouflage Image Augmentation via Diffusion Model | arXiv | https://github.com/drlxj/CamDiff |2023
